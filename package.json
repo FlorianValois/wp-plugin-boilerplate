@@ -1,0 +1,30 @@
+{
+  "name": "fvkel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "devDependencies": {
+    "gulp": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-concat": "latest",
+    "gulp-csso": "latest",
+    "gulp-rename": "latest",
+    "gulp-sass": "latest",
+    "gulp-sourcemaps": "latest",
+    "gulp-uglify": "latest",
+    "node-sass": "latest",
+    "streamqueue": "latest"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.4.2",
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.4.1",
+    "jquery-validation": "^1.19.2",
+    "sweetalert2": "^10.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

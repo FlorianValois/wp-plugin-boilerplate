@@ -1,0 +1,12 @@
+node_modules/
+
+package-lock.json
+
+admin.min.js
+public.min.js
+
+admin.min.css
+admin.min.map
+
+public.min.css
+public.min.map
